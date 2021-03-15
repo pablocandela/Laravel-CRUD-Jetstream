@@ -13,7 +13,7 @@ CRUD con panel de administración hecho en Laravel 8.
 
 ## Demo en heroku
 
-Puedes probar el proyecto en https://heroku-crud-laravel.herokuapp.com/
+Puedes probar el proyecto en http://heroku-crud-laravel.herokuapp.com/register
 
 ## About Laravel
 
