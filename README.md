@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+##Laravel-CRUD-Livewire
+
+CRUD con panel de administración hecho en Laravel 8.
+
+## Demo en heroku
+
+Puedes probar el proyecto en https://heroku-crud-laravel.herokuapp.com/
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
