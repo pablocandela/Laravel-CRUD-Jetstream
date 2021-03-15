@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Laravel-CRUD-Livewire
+## Laravel-CRUD-Livewire
 
 CRUD con panel de administración hecho en Laravel 8.
 
